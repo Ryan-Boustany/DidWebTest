@@ -24,17 +24,17 @@ def generateDid():
 
   did_document = {
       "@context": "https://www.w3.org/ns/did/v1",
-      "id": "did:web:Ryan-Boustany.github.io",
+      "id": "did:web:ryan-boustany.github.io",
       "verificationMethod": [
           {
-              "id": "did:web:Ryan-Boustany.github.io#key-1",
+              "id": "did:web:ryan-boustany.github.io#key-1",
               "type": "RsaVerificationKey2018",
-              "controller": "did:web:Ryan-Boustany.github.io",
+              "controller": "did:web:ryan-boustany.github.io",
               "publicKeyPem": public_key.decode('utf-8')
           }
       ],
       "authentication": [
-          "did:web:Ryan-Boustany.github.io#key-1"
+          "did:web:ryan-boustany.github.io#key-1"
       ]
   }
 

@@ -1,15 +1,15 @@
 {
     "@context": "https://www.w3.org/ns/did/v1",
-    "id": "did:web:Ryan-Boustany.github.io",
+    "id": "did:web:ryan-boustany.github.io",
     "verificationMethod": [
         {
-            "id": "did:web:Ryan-Boustany.github.io#key-1",
+            "id": "did:web:ryan-boustany.github.io#key-1",
             "type": "RsaVerificationKey2018",
-            "controller": "did:web:Ryan-Boustany.github.io",
-            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4acvCvvx0y17CFAdgHxK\nsq9y+DKsn5GasIo1UHsY163rwUkmiXGN4SjjxznxA5HA7jmXCW2duZWHFC25pvpY\n/AKm7USclrR+hTjwWd2rd5z7+GVK+iXnXEPxpqbl1YmGtAlUDNi69p2k7KL7uTm2\naJI4G7FArgm0cUU5ISgo9yWYVbd4uSFqFUhXkUP/vVayXWqcha/8hogB/Gd6MjAt\nSbaduE1S9SjbSbmOrhSP6awtC3km2osLK2cvaMufpN1K1biXoRYnOI7REjoJxr+2\nl4xDHL5pVgMrkii4ZouZUiNovQSeexdncIYawTJNvp8Ydy/zc3MT/4XtGppp4o6j\nmQIDAQAB\n-----END PUBLIC KEY-----\n"
+            "controller": "did:web:ryan-boustany.github.io",
+            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxP3beHwK2TOdJCW0RZNR\nNoToSsjJBWszcH7oWAssOYuRNlPbU1ElvElBsJW2cFi7J7fexQvKrM/eMQ2f3P7e\ngGlANqJkIl9S9PmhHTErkhlVukXFheBOX0M5SjYJOEc5d5JZiZbJDHCS876HppSc\nNysTKPyLDrX56/i1rkNGtqpkrnMx8ozk/LmGViqEE24nzgvOZRC0drFrwq955Lre\nbQyKNxY0zK0ScYutZOw/v3vhtiX2d8j66b8405/UeT/quj3YaJ3VlemZ8Lhhzir/\nOd8xiwmsvEvsiBOCUdFQ6vHhPhGQ/RcxxRW9XMN8+m0LW5sRJIOOCOwnESd2klaI\nvQIDAQAB\n-----END PUBLIC KEY-----\n"
         }
     ],
     "authentication": [
-        "did:web:Ryan-Boustany.github.io#key-1"
+        "did:web:ryan-boustany.github.io#key-1"
     ]
 }
