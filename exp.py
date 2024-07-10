@@ -46,3 +46,6 @@ def generateDid():
       json.dump(did_document, f, indent=4)
     
   return private_key
+
+if __name__ == "__main__":
+   print(generateDid())

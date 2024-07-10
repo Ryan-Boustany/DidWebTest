@@ -1,0 +1,15 @@
+{
+    "@context": "https://www.w3.org/ns/did/v1",
+    "id": "did:web:Ryan-Boustany.github.io",
+    "verificationMethod": [
+        {
+            "id": "did:web:Ryan-Boustany.github.io#key-1",
+            "type": "RsaVerificationKey2018",
+            "controller": "did:web:Ryan-Boustany.github.io",
+            "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4acvCvvx0y17CFAdgHxK\nsq9y+DKsn5GasIo1UHsY163rwUkmiXGN4SjjxznxA5HA7jmXCW2duZWHFC25pvpY\n/AKm7USclrR+hTjwWd2rd5z7+GVK+iXnXEPxpqbl1YmGtAlUDNi69p2k7KL7uTm2\naJI4G7FArgm0cUU5ISgo9yWYVbd4uSFqFUhXkUP/vVayXWqcha/8hogB/Gd6MjAt\nSbaduE1S9SjbSbmOrhSP6awtC3km2osLK2cvaMufpN1K1biXoRYnOI7REjoJxr+2\nl4xDHL5pVgMrkii4ZouZUiNovQSeexdncIYawTJNvp8Ydy/zc3MT/4XtGppp4o6j\nmQIDAQAB\n-----END PUBLIC KEY-----\n"
+        }
+    ],
+    "authentication": [
+        "did:web:Ryan-Boustany.github.io#key-1"
+    ]
+}
